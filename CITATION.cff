@@ -15,5 +15,7 @@ authors:
 identifiers:
   - type: doi
     value: 10.5281/zenodo.17449954
+  - type: url
+    value: 'https://github.com/kumaashiro/dnp-survey-analysis'
 repository-code: 'https://github.com/kumaashiro/dnp-survey-analysis'
 date-released: '2025-10-25'
