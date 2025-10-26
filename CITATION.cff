@@ -12,7 +12,6 @@ authors:
     family-names: Yoon
     email: hyangy@hawaii.edu
     orcid: 'https://orcid.org/0000-0003-0140-5520'
-    affiliation: University of Hawaii at Manoa
 identifiers:
   - type: doi
     value: 10.5281/zenodo.17449954
