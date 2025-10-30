@@ -14,7 +14,7 @@ authors:
     orcid: 'https://orcid.org/0000-0003-0140-5520'
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.17479576
+    value: 10.5281/zenodo.17449953
   - type: url
     value: 'https://github.com/kumaashiro/dnp-survey-analysis'
 repository-code: 'https://github.com/kumaashiro/dnp-survey-analysis'
